@@ -1,4 +1,4 @@
-----
+---
 title: About Us
 logo: img/1f60e.png
 blurb:
