@@ -1,5 +1,5 @@
 ---
-title: WCShia
+title: Weibiomed Co.Ltd
 subtitle: Support sustainable farming while enjoying a cup
 image: img/dall·e-2025-01-23-15.30.29-a-futuristic-blue-themed-background-design-suitable-for-a-website-featuring-a-sleek-and-modern-aesthetic.-the-background-includes-glowing-neon-lines-.webp
 blurb:
